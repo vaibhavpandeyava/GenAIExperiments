@@ -1,0 +1,8 @@
+{
+	"Role": "Role_I_Want_Model_To_Pretend",
+	"Context": "Context information for the model, wriiten in clear natural language",
+	"Prompts": [
+		"Instructions for the model_1",
+		"Instructions for the model_2"
+	]
+}
